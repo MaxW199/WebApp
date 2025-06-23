@@ -55,5 +55,9 @@ namespace PiesShop.Controllers
             return View(pie);
         }
 
+        public ViewResult Search()
+        {
+            return View();
+        }
     }
 }

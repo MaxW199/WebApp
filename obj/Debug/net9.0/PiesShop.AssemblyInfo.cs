@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PiesShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efbab42c4387824097d9a985508efcf183b2b187")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c55eadb44c7f5532de720c434a78e083668d53d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PiesShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PiesShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
