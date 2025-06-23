@@ -32,4 +32,9 @@ public class PieRepository : IPieRepository
     {
         return _context.Pies.FirstOrDefault(p => p.PieId == pieId);
     }
+
+    public IEnumerable<Pie> SearchPies(string searchQuery)
+    {
+        return _context.Pies.Where(p => p.Name.Contains(searchQuery));
+    }
 }

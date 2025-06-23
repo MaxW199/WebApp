@@ -1,287 +1,287 @@
 {
   "Files": [
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/obj/Debug/net9.0/scopedcss/projectbundle/PiesShop.bundle.scp.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/obj/Debug/net9.0/scopedcss/projectbundle/PiesShop.bundle.scp.css",
       "PackagePath": "staticwebassets/PiesShop.dyyzq2kxk2.bundle.scp.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/Images/bethanys-pie-shop-logo_horiz-white.png",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/Images/bethanys-pie-shop-logo_horiz-white.png",
       "PackagePath": "staticwebassets/Images/bethanys-pie-shop-logo_horiz-white.png"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/Images/bethanys-pie-shop-logomark.png",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/Images/bethanys-pie-shop-logomark.png",
       "PackagePath": "staticwebassets/Images/bethanys-pie-shop-logomark.png"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/Images/carousel1.jpg",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/Images/carousel1.jpg",
       "PackagePath": "staticwebassets/Images/carousel1.jpg"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/Images/carousel2.jpg",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/Images/carousel2.jpg",
       "PackagePath": "staticwebassets/Images/carousel2.jpg"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/Images/carousel3.jpg",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/Images/carousel3.jpg",
       "PackagePath": "staticwebassets/Images/carousel3.jpg"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/Images/contact/contact.jpg",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/Images/contact/contact.jpg",
       "PackagePath": "staticwebassets/Images/contact/contact.jpg"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/Images/notfound.png",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/Images/notfound.png",
       "PackagePath": "staticwebassets/Images/notfound.png"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/css/site.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/favicon.ico",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/js/site.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/LICENSE",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery-validation/LICENSE.md",
       "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery/LICENSE.txt",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery/LICENSE.txt",
       "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery/dist/jquery.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery/dist/jquery.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery/dist/jquery.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery/dist/jquery.slim.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery/dist/jquery.slim.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery/dist/jquery.slim.min.js",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery/dist/jquery.slim.min.js",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.js"
     },
     {
-      "Id": "/Users/maxw/Desktop/Pies/PiesShop/wwwroot/lib/jquery/dist/jquery.slim.min.map",
+      "Id": "/Users/maxw/Desktop/WebApp/PiesShop/wwwroot/lib/jquery/dist/jquery.slim.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
     },
     {

@@ -24,4 +24,8 @@ public class MockPieRepository : IPieRepository
 
     public Pie? GetPieById(int pieId) => AllPies.FirstOrDefault(p => p.PieId == pieId);
 
+    public IEnumerable<Pie> SearchPies(string searchQuery)
+    {
+        throw new NotImplementedException();
+    }
 }

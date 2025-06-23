@@ -1,3 +1,4 @@
+using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
 using PiesShop.Models;
 
@@ -11,6 +12,11 @@ builder.Services.AddScoped<IShoppingCart, ShoppingCart>(sp => ShoppingCart.GetCa
 
 builder.Services.AddSession();
 builder.Services.AddHttpContextAccessor();
+
+builder.Services.AddControllersWithViews().AddJsonOptions(options =>
+{
+    options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+});
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<BethanysPieShopDbContext>(options =>
